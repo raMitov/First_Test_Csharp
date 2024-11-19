@@ -1,0 +1,10 @@
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\obj\Debug\Hello_World.Form1.resources
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\obj\Debug\Hello_World.csproj.GenerateResource.cache
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\chizm\source\repos\Cs_Repos\Hello_World\obj\Debug\Hello_World.pdb
